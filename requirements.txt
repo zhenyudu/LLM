@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langgraph
+langchain-huggingface
+transformers
+fastapi[standard]
+torch
+torchvision
+torchaudio
+sentencepiece
+protobuf
+accelerate
+line-bot-sdk
+faiss-cpu
+pypdf
