@@ -3,7 +3,10 @@
 ## 1. Introduction
 個人LLM領域的應用開發紀錄
 
-## 2. Projects
+## 2. Applications
+- LLM 基礎對答 (app/basic_llm.py)
+- LineBot x RAG (app/rag_linebot.py)
+
 
 
 ## 3. Architecture
