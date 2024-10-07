@@ -12,7 +12,17 @@
 ## 3. Architecture
 
 
-### Line Developer Tokens
+
+
+
+
+## ⌘ 事前準備
+- Python
+- Ngork
+- HuggingFace Account
+- Line Developer Account
+
+#### Line Developer Tokens
 ```
 $ export LINE_CHANNEL_SECRET=YOUR_LINE_CHANNEL_SECRET
 $ export LINE_CHANNEL_ACCESS_TOKEN=YOUR_LINE_CHANNEL_ACCESS_TOKEN
