@@ -34,9 +34,7 @@ ollama run llama3.2
 ### Hugging Face - 開源模型獲取
 - 建立 [Hugging Face](https://huggingface.co/) 帳號
 - 建立 Access Token
-    1. Settings
-    2. Access Token
-    3. Create New Token
+    - Settings > Access Tokens > Create New Token
 
 
 ### Line Developer Tokens
