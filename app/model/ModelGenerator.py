@@ -6,6 +6,9 @@ class ModelGenerator:
 
     def generate(self, query, **params):
         return self.model.invoke(query, **params)
+    
+    async def generate_stream(self, query, **params):
+        return self.model.generate(query, **params, stream=True)
 
     def rag_generate(self, retriever, question, **params):
         retrieval = retriever.similarity_search_with_relevance_scores(question, k=5)

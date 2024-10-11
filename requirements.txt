@@ -13,3 +13,5 @@ accelerate
 line-bot-sdk
 faiss-cpu
 pypdf
+streamlit
+anthropic

@@ -8,7 +8,7 @@ from model.ModelLoader import ModelLoader
 from model.ModelGenerator import ModelGenerator
 from vectordb.vectordb import get_retriever
 
-## Set Line API Keys
+## Set Line API Keys (set keys in environemnt variables)
 channel_secret = os.getenv('LINE_CHANNEL_SECRET', None)
 channel_access_token = os.getenv('LINE_CHANNEL_ACCESS_TOKEN', None)
 if channel_secret is None:
