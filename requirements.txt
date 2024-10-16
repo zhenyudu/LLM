@@ -15,3 +15,5 @@ faiss-cpu
 pypdf
 streamlit
 anthropic
+datasets
+ollama
