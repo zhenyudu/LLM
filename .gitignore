@@ -2,3 +2,4 @@
 .venv/*
 app/data/*
 reference/*
+./src/db/*

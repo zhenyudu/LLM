@@ -17,3 +17,6 @@ streamlit
 anthropic
 datasets
 ollama
+chroma
+chromadb
+langchain-qdrant
