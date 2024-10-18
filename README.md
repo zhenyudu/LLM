@@ -3,17 +3,16 @@
 ## 1. Introduction
 個人LLM領域的應用開發紀錄
 
+
 ## 2. Applications
-- LLM 基礎對答 (app/basic_llm.py)
 - LineBot x RAG (app/rag_linebot.py)
+- (null) LLM 基礎對答 (app/basic_llm.py)
 
 
-
-## 3. Architecture
-
-
-
-
+## 3. Templates and Practices
+- Ollama basic usage (src/ollama_basic.py)
+- (dev) Embeddings_Comparison (src/embeddings_comparison.py)
+- (null) Reranking_Comparison (src/reranking_comparison.py)
 
 
 ## ⌘ 事前準備
